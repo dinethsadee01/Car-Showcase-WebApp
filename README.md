@@ -40,6 +40,7 @@
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 - [👨‍💻 Author](#-author)
+- [☕ Support](#-support)
 
 ---
 
@@ -368,7 +369,22 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinethsadeepaedirisinghe)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DinethSadeepa)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dineth.is-a.dev)
+  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/grandwarlock)
 </div>
+
+---
+
+## ☕ Support
+
+If you found this project helpful and would like to support my work, consider buying me a coffee! ☕
+
+<div align="center">
+  <a href="https://buymeacoffee.com/dinethsadee01" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" />
+  </a>
+</div>
+
+Your support helps me continue creating awesome projects and contributing to the open-source community! 🚀
 
 ---
 
