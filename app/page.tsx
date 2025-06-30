@@ -3,6 +3,7 @@ import { fetchCars } from "@/utils";
 import { fuels, yearsOfProduction } from "@/constants";
 import { HomeProps } from "@/types";
 
+// This file is the main entry point for the home page of the car catalogue application.
 export default async function Home({ searchParams }: HomeProps) {
   const params = await searchParams;
 
