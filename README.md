@@ -1,7 +1,7 @@
 # 🚗 Car Showcase WebApp
 
 <div align="center">
-  <img src="./public/hero.png" alt="Car Showcase Hero" width="600px">
+  <img src="./public/logo.svg" alt="Car Showcase Hero" width="600px">
   
   <p align="center">
     <strong>A modern, responsive car showcase and rental platform built with Next.js 15</strong>
@@ -87,8 +87,6 @@
 
 🌐 **Live Demo**: [Car Showcase WebApp](https://your-demo-link.vercel.app)
 
-> **Note**: Replace with your actual deployment URL
-
 ---
 
 ## 📦 Installation
@@ -105,7 +103,7 @@ Make sure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/car-showcase-webapp.git
+   git clone https://github.com/dinethsadee01/Car-Showcase-WebApp.git
    cd car-showcase-webapp
    ```
 
@@ -205,8 +203,6 @@ NEXT_PUBLIC_RAPID_API_KEY=your_rapidapi_key_here
 <img src="./public/screenshots/mobile.png" alt="Mobile View" width="300px">
 
 </div>
-
-> **Note**: Add actual screenshots to a `public/screenshots/` directory
 
 ---
 
@@ -364,14 +360,14 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 👨‍💻 Author
 
 <div align="center">
-  <img src="https://github.com/yourusername.png" alt="Author" width="100px" style="border-radius: 50%;">
+  <img src="https://github.com/dinethsadee01.png" alt="Author" width="100px" style="border-radius: 50%;">
   
-  **Your Name**
+  **Dineth Sadeepa**
   
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dinethsadee01)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinethsadeepaedirisinghe)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DinethSadeepa)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dineth.is-a.dev)
 </div>
 
 ---
